@@ -20,10 +20,10 @@ const paragraphs = [
     on Wait But Why. Fascinating, but it felt like science fiction. Then the OpenAI Playground appeared, and we were
     passing it around the office like a glorified thesaurus, generating AI-inspired cocktail ingredients. When ChatGPT
     launched, I was in straight away, and I haven&rsquo;t really stopped since: reading everything I could (
-    <Link href="https://www.amazon.co.uk/Co-Intelligence-Living-Working-Ethan-Mollick/dp/0593716736">Co-Intelligence</Link>,{' '}
-    <Link href="https://www.amazon.co.uk/Creativity-Code-Art-Innovation-Age/dp/0674244710">The Creativity Code</Link>,{' '}
+    <Link href="https://www.amazon.co.uk/dp/0753560771">Co-Intelligence</Link>,{' '}
+    <Link href="https://www.amazon.co.uk/dp/0008288194">The Creativity Code</Link>,{' '}
     <Link href="https://www.amazon.co.uk/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0198739834">Superintelligence</Link>,{' '}
-    <Link href="https://www.amazon.co.uk/Empire-AI-Karen-Hao/dp/0063240882">Empire of AI</Link>), absorbing TikTok
+    <Link href="https://www.amazon.co.uk/dp/0241678927">Empire of AI</Link>), absorbing TikTok
     creators like{' '}
     <Link href="https://www.tiktok.com/@askcatgpt">CatGPT</Link> and{' '}
     <Link href="https://www.tiktok.com/@iamkylebalmer">AI with Kyle</Link>, and gradually pivoting my actual job toward
