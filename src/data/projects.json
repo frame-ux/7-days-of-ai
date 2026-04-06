@@ -1,0 +1,86 @@
+[
+  {
+    "day": 1,
+    "name": "The Portfolio",
+    "description": "A showcase site for the challenge itself. Built end-to-end with Claude Code in a single session.",
+    "tags": ["React", "Tailwind", "Framer Motion", "Three.js", "Claude Code"],
+    "timeSpent": "",
+    "liveUrl": "#",
+    "sourceUrl": "#",
+    "status": "complete",
+    "accentColor": "#00f0ff",
+    "shape": "icosahedron"
+  },
+  {
+    "day": 2,
+    "name": "Coming Soon",
+    "description": "Day 2 project \u2014 check back tomorrow.",
+    "tags": [],
+    "timeSpent": "",
+    "liveUrl": "",
+    "sourceUrl": "",
+    "status": "upcoming",
+    "accentColor": "#a855f7",
+    "shape": "torusKnot"
+  },
+  {
+    "day": 3,
+    "name": "Coming Soon",
+    "description": "Day 3 project \u2014 check back soon.",
+    "tags": [],
+    "timeSpent": "",
+    "liveUrl": "",
+    "sourceUrl": "",
+    "status": "upcoming",
+    "accentColor": "#f59e0b",
+    "shape": "octahedron"
+  },
+  {
+    "day": 4,
+    "name": "Coming Soon",
+    "description": "Day 4 project \u2014 check back soon.",
+    "tags": [],
+    "timeSpent": "",
+    "liveUrl": "",
+    "sourceUrl": "",
+    "status": "upcoming",
+    "accentColor": "#f43f5e",
+    "shape": "dodecahedron"
+  },
+  {
+    "day": 5,
+    "name": "Coming Soon",
+    "description": "Day 5 project \u2014 check back soon.",
+    "tags": [],
+    "timeSpent": "",
+    "liveUrl": "",
+    "sourceUrl": "",
+    "status": "upcoming",
+    "accentColor": "#10b981",
+    "shape": "torus"
+  },
+  {
+    "day": 6,
+    "name": "Coming Soon",
+    "description": "Day 6 project \u2014 check back soon.",
+    "tags": [],
+    "timeSpent": "",
+    "liveUrl": "",
+    "sourceUrl": "",
+    "status": "upcoming",
+    "accentColor": "#3b82f6",
+    "shape": "cone"
+  },
+  {
+    "day": 7,
+    "name": "Coming Soon",
+    "description": "Day 7 project \u2014 the grand finale.",
+    "tags": [],
+    "timeSpent": "",
+    "liveUrl": "",
+    "sourceUrl": "",
+    "status": "upcoming",
+    "accentColor": "#f97316",
+    "shape": "tetrahedron"
+  }
+]
