@@ -21,9 +21,7 @@ const paragraphs = [
     passing it around the office like a glorified thesaurus, generating AI-inspired cocktail ingredients. When ChatGPT
     launched, I was in straight away, and I haven&rsquo;t really stopped since: reading everything I could (
     <Link href="https://www.amazon.co.uk/dp/0753560771">Co-Intelligence</Link>,{' '}
-    <Link href="https://www.amazon.co.uk/dp/0008288194">The Creativity Code</Link>,{' '}
-    <Link href="https://www.amazon.co.uk/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0198739834">Superintelligence</Link>,{' '}
-    <Link href="https://www.amazon.co.uk/dp/0241678927">Empire of AI</Link>), absorbing TikTok
+    <Link href="https://www.amazon.co.uk/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0198739834">Superintelligence</Link>), absorbing TikTok
     creators like{' '}
     <Link href="https://www.tiktok.com/@askcatgpt">CatGPT</Link> and{' '}
     <Link href="https://www.tiktok.com/@iamkylebalmer">AI with Kyle</Link>, and gradually pivoting my actual job toward
