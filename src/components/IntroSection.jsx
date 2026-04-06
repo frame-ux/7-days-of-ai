@@ -13,27 +13,25 @@ const Link = ({ href, children }) => (
 
 const paragraphs = [
   <>
-    My interest in AI started a few years ago when I read Tim Urban&rsquo;s{' '}
+    My interest in AI started when I read Tim Urban&rsquo;s{' '}
     <Link href="https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html">
       &ldquo;The AI Revolution&rdquo;
-    </Link>{' '}
-    on Wait But Why. Fascinating, but it felt like science fiction. Then the OpenAI Playground appeared, and we were
-    passing it around the office like a glorified thesaurus, generating AI-inspired cocktail ingredients. When ChatGPT
-    launched, I was in straight away, and I haven&rsquo;t really stopped since: reading everything I could (
+    </Link>
+    . When ChatGPT launched, I was in straight away and haven&rsquo;t stopped since: reading everything I could (
     <Link href="https://www.amazon.co.uk/dp/0753560771">Co-Intelligence</Link>,{' '}
-    <Link href="https://www.amazon.co.uk/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0198739834">Superintelligence</Link>), absorbing TikTok
-    creators like{' '}
+    <Link href="https://www.amazon.co.uk/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0198739834">Superintelligence</Link>), absorbing creators
+    like{' '}
     <Link href="https://www.tiktok.com/@askcatgpt">CatGPT</Link> and{' '}
     <Link href="https://www.tiktok.com/@iamkylebalmer">AI with Kyle</Link>, and gradually pivoting my actual job toward
-    AI as Innovation and Creative Operations Manager at{' '}
+    AI at{' '}
     <Link href="https://sweetandchilli.com">Sweet&amp;Chilli</Link>.
   </>,
   <>
-    At the beginning of 2026, I heard Casey Newton and Kevin Roose on{' '}
+    Then I heard Casey Newton and Kevin Roose on{' '}
     <Link href="https://podcasts.apple.com/us/podcast/hard-fork/id1528594034">Hard Fork</Link>{' '}
     showing how easy it is to build things with{' '}
-    <Link href="https://docs.anthropic.com/en/docs/claude-code">Claude Code</Link>. I spent the next few months
-    tinkering: half-finished portfolio sites, abandoned website clones, lots of starts but not much shipping. Then I read{' '}
+    <Link href="https://docs.anthropic.com/en/docs/claude-code">Claude Code</Link>. I spent months tinkering: half-finished
+    sites, abandoned clones, lots of starts but not much shipping. Then I read{' '}
     <Link href="https://nesslabs.com/book">Tiny Experiments</Link> by Anne-Laure Le Cunff, and it clicked. Stop
     planning, start trying stuff, and actually finish it.
   </>,
