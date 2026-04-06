@@ -55,6 +55,20 @@ export default function Hero() {
         >
           by Arthur Dimsdale
         </motion.p>
+
+        {/* Bio */}
+        <motion.p
+          initial={{ opacity: 0 }}
+          animate={{ opacity: 1 }}
+          transition={{ duration: 0.8, delay: 1.4 }}
+          className="text-xs text-white/15 font-body font-light max-w-md mx-auto mt-3 leading-relaxed"
+        >
+          Innovation &amp; Creative Operations Manager at{' '}
+          <a href="https://sweetandchilli.com" target="_blank" rel="noopener noreferrer" className="text-white/25 hover:text-accent-cyan/60 transition-colors">
+            Sweet&amp;Chilli
+          </a>
+          , exploring what&rsquo;s possible when you combine curiosity with AI.
+        </motion.p>
       </div>
 
       {/* Scroll indicator */}
